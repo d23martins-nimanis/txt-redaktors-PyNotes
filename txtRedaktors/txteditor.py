@@ -4,7 +4,7 @@ Programmu izveidoja Mārtiš Nīmanis D2-3.
 from tkinter import Tk, scrolledtext, filedialog, Menu, messagebox, END
 
 #root ir galvenajam logs
-root = Tk(className = " Teksta editors")
+root = Tk(className = " PyNotes - teksta redaktors") #PyNotes = Python notes
 textArea = scrolledtext.ScrolledText(root, width=70, height=80) # height nezkādēļ nestrādā
 
 #Funkcijas
@@ -36,14 +36,15 @@ menu = Menu(root)
 root.config(menu=menu)
 fileMenu = Menu(menu)
 menu.add_cascade(label="File", menu=fileMenu)
-fileMenu.add_command(label="Jauns") #vēl nav gatava funkcija
+# fileMenu.add_command(label="Jauns") vēl nav gatava funkcija
 fileMenu.add_command(label="Atvērt", command = openFile)
 fileMenu.add_command(label="Saglabāt", command = saveFile)
+# fileMenu.add_command(label="Printēt", command = printFile) vēl nav gatava funkcija
 fileMenu.add_separator()
 fileMenu.add_command(label="Iziet", command = closeWindow)
 textArea.pack()
 
-menu.add_cascade(label="Pamācība") #trūkst pamācības
+# menu.add_cascade(label="Pamācība", command = help) vēl nav gatava funkcija, trūkst pamācības
 menu.add_cascade(label="Par programmu", command = about)
 
 root.mainloop()#patur galveno logu atvērtu
