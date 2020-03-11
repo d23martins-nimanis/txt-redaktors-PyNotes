@@ -2,9 +2,13 @@
 
 Uzdevuma formulējums un progrāmā veicamās darbības:
 > Programma attēlo specealizētu logu tās lietošanai.
+
 > Programmas funkcijas ir pieejamas navigācijas joslā un izvelnēs, ko var atvēr navigācijas joslā.
+
 > Lietotāj spēj atvērt .txt failu caur jau pazīstamu File Explorer logu. Programma faila saturu attēlo teksta logā.
+
 > Lietotājs spēj rediģēt tekstu, to izmainot un/vai rakstot teksta logā. Programma attēlo teksu teksta logā.
+
 > Lietotājs spēj saglabāt tekstu kā jaunu .txt failu vai aivietot jau esošu caur jau pazīstamu File Explorer logu.
 
 
