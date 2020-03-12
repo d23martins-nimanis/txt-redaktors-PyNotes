@@ -12,6 +12,7 @@ Uzdevuma formulējums un progrāmā veicamās darbības:
 > Lietotājs spēj saglabāt tekstu kā jaunu .txt failu vai aivietot jau esošu caur jau pazīstamu File Explorer logu.
 
 Ir vēl jāveic labojumi un jāpeiveno trūkstošas funkcijas.
+
 Nākotnē tiks pievienotas un izmainītas šādas funkcijas:
 > "Jauns" - dzēš logā jau esošo tekstu, lai sāktu rakstīt jaunu.
 
