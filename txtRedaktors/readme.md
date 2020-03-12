@@ -11,10 +11,18 @@ Uzdevuma formulējums un progrāmā veicamās darbības:
 
 > Lietotājs spēj saglabāt tekstu kā jaunu .txt failu vai aivietot jau esošu caur jau pazīstamu File Explorer logu.
 
-Nākotnē tiks pievienotas šādas funkcijas:
+Ir vēl jāveic labojumi un jāpeiveno trūkstošas funkcijas.
+Nākotnē tiks pievienotas un izmainītas šādas funkcijas:
 > "Jauns" - dzēš logā jau esošo tekstu, lai sāktu rakstīt jaunu.
 
 > "Printēt" - ļauj lietotājam izprintēt dokumentu.
 
+> Funlcija 'Atvērt' ļaus atvērt tikai txt failus.
 
-Ir vēl jāveic labojumi un jāpeiveno trūkstošas funkcijas.
+> Tiks labota kļuda, kas atstāj tekstu no iepriekšējā dokumenta, kad tiek atvērts cits.
+
+> Ja dokuments vai izmaiņas tajā nav saglabātas, brīdinājums prādīsies arī, ja galveno logu aizver ar krusustiņu labajā ugšējā stūrī.
+
+> Tiks izveidota pamācība.
+
+> Programmas loga fons tiks nomainīts tumšā krāsā un tekta fonts gaišā, lai šo programmu varētu lietot kā 'tumša režīma' alternatīvu notepad.
